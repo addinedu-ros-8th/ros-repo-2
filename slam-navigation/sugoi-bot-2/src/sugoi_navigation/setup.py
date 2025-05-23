@@ -20,7 +20,10 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'multi_nav_to_pose = sugoi_navigation.multi_nav_to_pose:main'
+            'multi_nav_to_pose = sugoi_navigation.multi_nav_to_pose:main',
+            'multi_nav_to_pose_forklift = sugoi_navigation.multi_nav_to_pose_forklift:main',
+            'multi_nav_by_input = sugoi_navigation.multi_nav_by_input:main',
+            'enter_test = sugoi_navigation.enter_test:main'
         ],
     },
 )
