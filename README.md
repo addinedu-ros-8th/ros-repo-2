@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/addinedu-ros-8th/deeplearning-repo-5">
-    <img src="" alt="Logo" width="500px">
+    <img src="https://github.com/user-attachments/assets/cf258d3d-4bb2-4909-8fa8-9330b97f4dea" alt="Logo" width="620px">
   </a>
 
   <h3 align="center">SUGOI (Scan & Understand Goods On the go with Intelligence)</h3>
@@ -45,9 +45,7 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 
 ---
 
-## 시스템 구성
-
-### 시스템 아키텍처 구성
+## 시스템 아키텍처 구성
 
 #### HW Architecture
 
@@ -57,7 +55,7 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 
 <br >
 
-## ERD
+## Data Structure
 
 <br >
 
@@ -66,10 +64,6 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 <br >
 
 ## GUI Specification
-### Interface GUI
-
-<br >
-
 ### Admin GUI
 
 <br >
@@ -78,12 +72,22 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 
 <br >
 
-## Implements
-### Interface GUI
+## Map
 
 <br >
 
-### Admin GUI
+## 3D Modeling
+
+<br >
+
+## Implements
+### Map
+
+### SLAM & Navigation
+
+### Forklift Control
+
+### GUI
 
 <br >
 
