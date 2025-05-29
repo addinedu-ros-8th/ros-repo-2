@@ -116,7 +116,8 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 ![Image](https://github.com/user-attachments/assets/39e0674e-6301-4e38-ab3a-57b451aefea3)
 <br >
 
-## <a href="https://youtu.be/jC3W9LoOUPE">Video Demo</a>
+
+## <a href="https://youtu.be/28lv0X8Z07Q">Video Demo</a>
 ![Image](https://github.com/user-attachments/assets/63945c7f-ece9-443b-8805-f49219d1f175)
 <br >
 
