@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://www.miricanvas.com/v2/design/14nnz4f">Presentation</a>
     <a> || </a>
-    <a href="https://youtu.be/jC3W9LoOUPE">Video Demo</a>
+    <a href="https://youtu.be/28lv0X8Z07Q">Video Demo</a>
   </p>
 </p>
 <hr>
