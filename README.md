@@ -34,7 +34,7 @@ TCP 통신, ROS2, AI 비전, 데이터베이스 연동 등 다양한 기술을 �
 ## 팀 구성 및 역할
 |        | Name | Job |
 |--------|------|-----|
-| Leader | 강주빈 |  Project Manage, SLAM & Navigation, 3D Modeling |   
+| Leader | Mr. Kang |  Project Manage, SLAM & Navigation, 3D Modeling |   
 | Worker | 이상윤 |  Forklift Control, Posture Correction |   
 | Worker | 이우재 |  Task Manager, DataBase, AI Camera, Plate Camera |    
 | Worker | 임동욱 |  SLAM & Navigation, GUI | 
